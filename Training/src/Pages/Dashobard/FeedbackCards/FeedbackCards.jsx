@@ -127,7 +127,7 @@ const FeedbackCards = () => {
                 style={{
                   fontSize: "17px",
                   color: "#d1d5db",
-                  lineHeight: "1.75",
+                  lineHeight: "1.75",//i have changed the line height to 1.75 to make it more readable and less cramped
                   margin: 0,
                   fontStyle: "italic",
                 }}
